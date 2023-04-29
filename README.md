@@ -17,3 +17,7 @@ My code for [Zillow’s Home Value Prediction (Zestimate)](https://www.kaggle.co
 |:---------------------:|:---------------:|:---------------:|
 | October result        | 0.07519/0.06442 | 0.0752/0.06442  |
 | precise month         | 0.07628/0.06559 | 0.07622/0.06546 |
+
+* how to run:
+  * make sure to install all required libraries
+  * run `python run.py`
