@@ -3,6 +3,8 @@ My code for [Zillow’s Home Value Prediction (Zestimate)](https://www.kaggle.co
 
 * tried catboost and lightgbm
 
+* did super-parameter searching
+
 * referenced the code [here](https://www.kaggle.com/code/deepakk92/notebook211fdc91df/notebook) for parameter searching start point and basic feature processes
 
 * although the authors of the reference recommanded to use the result of October as the result of all months as the quoted comment they wrote, I have tested that no significant result decrease is made for using precise month data.
