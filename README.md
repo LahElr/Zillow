@@ -22,4 +22,5 @@ My code for [Zillow’s Home Value Prediction (Zestimate)](https://www.kaggle.co
 
 * how to run:
   * make sure to install all required libraries
+  * put data in `data` folder
   * run `python run.py`
